@@ -1,0 +1,15 @@
+/*INDEX*/
+.edit-button {
+    border-radius: 100%;
+    padding: 6 8;
+    font-size: 22px;
+}
+.delete-button {
+    border-radius: 100%;
+    background-color: #b11313cc;
+    padding: 6 8;
+    font-size: 22px;
+}
+.delete-button:hover {
+    background-color: #ac2c2c;
+}
